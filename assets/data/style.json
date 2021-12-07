@@ -9934,6 +9934,23 @@
           }
         }
       ]
+    },
+    {
+        "styleId": "202111",
+        "rules": [
+            {"conditions": {
+                "properties": {
+                  "@Datastreams.0.Observations.0.result": [-10000000,10000000]
+                }
+              },
+              "style": {
+                  "legendValue": "Competence Centers für Erneuerbare Energien und EnergieEffizienz (CC4E)",
+                  "polygonStrokeColor": [0, 0, 102, 1],
+                  "polygonFillColor": [0, 76, 153, 1]
+              }
+            }
+          ]
+
     }
   ]
   
