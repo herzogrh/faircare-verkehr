@@ -1,1 +1,4 @@
 .DS_Store
+/assets/data/mobility-data/*
+
+notebooks/mobility-data/*
